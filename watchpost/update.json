@@ -1,1 +1,10 @@
-
+{
+  "product": "Watchpost",
+  "version": "6.25.0",
+  "released": "2026-11-05",
+  "notes": "Pilot licences now go read-only when they end.",
+  "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.25.0.exe",
+  "sha256": "e42a5b1cf12f08101a210b6a91ca54f5ac5cb421cb532999d06635c86f19f783",
+  "size": 41060998,
+  "signature": "620a558ef23a14a73869ce3955aee327524aa4b85ee76e45324bfdda627af81095f0332ba097f281049c1a06c75ba7749bfd81732a795663e6365f0332cc5203"
+}
