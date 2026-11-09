@@ -1,10 +1,10 @@
 {
   "product": "Watchpost",
-  "version": "6.26.0",
-  "released": "2026-11-05",
-  "notes": "Fix Vehicle location update.",
-  "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.26.0.exe",
-  "sha256": "21bbcde60f3560237997b8c599690bba6c4728258991860c4751817429be4791",
-  "size": 54706179,
-  "signature": "291766d7bfb29b9423c801cba9287b0f9d68930f7599f65a3334426e61e2d5c9cdd73a093ea401bfab7ffc94137d74155cf3f635615e83eb716a8e43b2768403"
+  "version": "6.27.0",
+  "released": "2026-11-09",
+  "notes": "New: true vehicle tracking and a live Fleet map. A driver turns Tracking on in the Watchpost Android app (1.7.0 or newer)",
+  "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.27.0.exe",
+  "sha256": "4444eec664f5e87960bc8520b3b20a4d74abb5cd0b870e9314fec03701048312",
+  "size": 54717672,
+  "signature": "c4e773d7efd0ad3a2ae67a6fc7823b052d86c978b5656cb5488ebbe9acd4efb7a01ca08e8a150549e33b44769b582e0342f4ef7b56597bcd11442bf6a075740f"
 }
