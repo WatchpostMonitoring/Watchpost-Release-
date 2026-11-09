@@ -2,9 +2,9 @@
   "product": "Watchpost",
   "version": "6.26.0",
   "released": "2026-11-05",
-  "notes": "Your own roster shift times, client vehicles with incidents and phone logins, staff contacts page. These are licence add-ons. Fixes a blank screen on About & licence.",
+  "notes": "Fix Vehicle location update.",
   "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.26.0.exe",
-  "sha256": "7dd5a337604613116708fd8c82ab54c432cbaeb2bab18b6622bde0b6f7ad9454",
-  "size": 41068722,
-  "signature": "14e47f008798442de842be6c41fa1774578b061582480547f067498ddd01a363a1ca2df7cfb9671ac69e2390f269e34353c8a671126777845f0f489e0dbcca00"
+  "sha256": "21bbcde60f3560237997b8c599690bba6c4728258991860c4751817429be4791",
+  "size": 54706179,
+  "signature": "291766d7bfb29b9423c801cba9287b0f9d68930f7599f65a3334426e61e2d5c9cdd73a093ea401bfab7ffc94137d74155cf3f635615e83eb716a8e43b2768403"
 }
