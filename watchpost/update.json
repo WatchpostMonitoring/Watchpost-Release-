@@ -1,10 +1,10 @@
 {
   "product": "Watchpost",
-  "version": "6.27.0",
-  "released": "2026-11-09",
-  "notes": "New: true vehicle tracking and a live Fleet map. A driver turns Tracking on in the Watchpost Android app (1.7.0 or newer)",
-  "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.27.0.exe",
-  "sha256": "4444eec664f5e87960bc8520b3b20a4d74abb5cd0b870e9314fec03701048312",
-  "size": 54717672,
-  "signature": "c4e773d7efd0ad3a2ae67a6fc7823b052d86c978b5656cb5488ebbe9acd4efb7a01ca08e8a150549e33b44769b582e0342f4ef7b56597bcd11442bf6a075740f"
+  "version": "6.28.0",
+  "released": "2026-11-10",
+  "notes": "Patrol pop-ups are no longer sent to an admin who has not started a shift. An admin who has only signed in to change settings or read reports gets none; they start receiving patrols when they press **Start shift**, and stop when the shift ends or they sign out. Operators and supervisors are unaffected. Without the shift/handover add-on there is no shift to start, so nobody is held back.",
+  "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.28.0.exe",
+  "sha256": "671786b964f1cec03df12b3a582f26039af2d92b10c66a338d9986ed0680687f",
+  "size": 54721772,
+  "signature": "98327840f407e8004f4245e555800a62cc575fd1679df9afc06c4fdf60b12c5b215c82f0cfb8d90a03b38116582338220fa42ebbca68528e8aa754c2ce14f903"
 }
