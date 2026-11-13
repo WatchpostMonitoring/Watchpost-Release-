@@ -2,9 +2,9 @@
   "product": "Watchpost",
   "version": "6.28.0",
   "released": "2026-11-10",
-  "notes": "Patrol pop-ups are no longer sent to an admin who has not started a shift. An admin who has only signed in to change settings or read reports gets none; they start receiving patrols when they press **Start shift**, and stop when the shift ends or they sign out. Operators and supervisors are unaffected. Without the shift/handover add-on there is no shift to start, so nobody is held back.",
+  "notes": "UI updated",
   "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.28.0.exe",
-  "sha256": "19061904f1940b2647d89ab7053f5d2289568796c9978c7954b1f3f284d2e810",
-  "size": 54722676,
-  "signature": "90462ed640cfd015a60239b699ad4ffbaaec0bfd1b84dfde783bbd0ada7318f4a5731ad8a09266b477aac2d23dd71a02ec344a0a633ecf057437325617adb707"
+  "sha256": "c2f8f8ff700afb1de716aa5d58ec014ad3bb6aa73b2f67c1ec72cdf31a88a0cb",
+  "size": 54839689,
+  "signature": "03fdd908b302f712a6ebb6e7ce285529c0cc52e72d9379018e18ae417515ea9ed53ba1290adeaee034dc7ec01c0eb473a02418ad54a9dacc1affbd2b1c56a40d"
 }
