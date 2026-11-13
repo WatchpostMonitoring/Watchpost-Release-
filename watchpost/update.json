@@ -2,9 +2,9 @@
   "product": "Watchpost",
   "version": "6.29.0",
   "released": "2026-11-13",
-  "notes": "UI interface updated.",
+  "notes": "Fixed some issue",
   "installer_url": "https://watchpostmonitoring.github.io/Watchpost-Release-/watchpost/Watchpost-Setup-6.29.0.exe",
-  "sha256": "ef61e8040efe07930afa8c5596f0b4431d45d2b5dc98c235c72eb59548826632",
-  "size": 54845051,
-  "signature": "f565612856b879465628cd2e42f49d3650e6db7dcbadeab03845baf9595da277c44faac5fc8c7f5794c8034f909917a52a581be582b93b9e0c1f21af69114a0c"
+  "sha256": "0c5bf915939a51d632f70b2b2247262b0f2c4e4f69655410979b6b3c32fe0d38",
+  "size": 54843486,
+  "signature": "4e704f3df73ed0f1a962d829b725ccfb7efa2d8ed3824ab656ce32cf79a274cca0f8b39708e0f02cf02fec6f1bbc5cffc1a67992d3a32adbc02c8ba7c913ee0f"
 }
